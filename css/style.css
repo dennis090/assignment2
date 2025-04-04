@@ -30,3 +30,14 @@
   background-color: red;
   color: white;
 }
+.one {
+  width: 200px;
+  height: 200px;
+  padding-top: 30px;
+}
+.two {
+  width: 200px;
+  height: 200px;
+  padding-top: 30px;
+  padding-left: 100px;
+}
